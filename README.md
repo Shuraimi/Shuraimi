@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Assalamualaikum!!
 I'm currently learning on building stuff on my own.<br>Also learning Java along with DSA and Web Development.<br>Looking forward to build more cool things through code.<br>🤖🧑‍💻<br>
 
 
