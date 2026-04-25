@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello,<br>I'm Shuraim, a Data Scientist skilled in Python and Machine Learning. As a recent graduate in CSE AI, I'm open to Data Scientist and Machine Learning roles.<br>
-To know more about my journey into Data Science and Machine Learning checkout my website 😀.<br><br>🌱 I’m currently learning<br>Learning PyTorch and build projects which have real impact.<br><br>I'll be happy to collaborate on interesting projects. 
+Hello,<br>I'm Shuraim, a Data Scientist skilled in Python and Machine Learning. Currently pursuing M.Tech at IIIT Dharwad, I'm open to Data Scientist and Machine Learning roles.<br>
+To know more about my journey into Data Science and Machine Learning checkout my website 😀.<br><br>🌱 I’m currently learning<br>Learning LangChain and build projects which have real impact.<br><br>I'll be happy to collaborate on interesting projects. 
 
 
 ## 🌐 Socials:
